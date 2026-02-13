@@ -2,7 +2,7 @@
 layout: post
 title:  "Haptic Pen"
 date:   2021-11-21 18:00:00 +00:00
-image: /images/haptic_pen.jpg
+image: /images_new/haptic_pen.jpg
 categories: JHU
 course: "EN.530.691: Haptic Interface Design for Human-Robot Interaction"
 author: "Kapi Ketan Mehta"

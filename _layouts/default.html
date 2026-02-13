@@ -50,7 +50,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/headshot_bw_circle.png">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images_new/headshot_bw_circle.png">
             </td>
           </tr>
         </table>
@@ -67,7 +67,7 @@
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-          {% for post in site.posts %}
+          {% for post in site.posts_new %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
@@ -192,7 +192,7 @@
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-          {% for post in site.posts %}
+          {% for post in site.posts_new %}
           {% for cat in post.categories %}
           {% if cat != 'research' and cat != 'Intel' %}
           <tr>
