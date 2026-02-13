@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CreatAR"
+date:   2021-11-22 18:00:00 +00:00
+image: /images/creatAR.jpg
+categories: JHU
+course: "EN.601.654: Augmented Reality"
+author: "Kapi Ketan Mehta"
+authors: "John Cast, <strong>Kapi Ketan Mehta</strong>, Jacob Lopez"
+subtitle: "Collaborative Virtual Solid Modelling"
+code: https://github.com/Ketan13294/CreatAR
+poster: https://github.com/Ketan13294/Ketan13294.github.io/blob/master/pdfs/CreatR.pdf
+---
+Work with [John Cast](https://www.johndallascast.com/), and [Jacob Lopez](https://www.linkedin.com/in/jacob--lopez/) to develop a virtually interactive and collaborative solid modelling application with HoloLens 2.

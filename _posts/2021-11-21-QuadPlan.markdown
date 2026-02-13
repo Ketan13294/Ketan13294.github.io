@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "QuadCopter Planning and Control"
+date:   2022-05-22 18:00:00 +00:00
+image: /images/QuadCopter.jpg
+categories: JHU
+course: "EN.530.678: Nonlinear Control and Planning in Robotics"
+author: "Kapi Ketan Mehta"
+authors: "<strong>Kapi Ketan Mehta</strong>, Maya Sitaram"
+subtitle: "Quadcopter Sim software stack"
+code: https://github.com/Ketan13294/Quadcopter-Trajectory-Tracking-Controller
+---
+Work with [Maya Sitaram](https://hamr.lcsr.jhu.edu/people/maya-sitaram/) to develop feedback linearization based trajectory tracking controller for a quadcopter with RRT* based trajectory planning in a map.

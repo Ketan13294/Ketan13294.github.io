@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Slipping SLIP"
+date:   2022-01-23 18:00:00 +00:00
+image: /images/SLIP.jpg
+categories: JHU
+course: "EN.530.676: Locomotion Dynamics & Control"
+author: "Kapi Ketan Mehta"
+authors: "<strong>Kapi Ketan Mehta</strong>, Gargi Sadalgekar, Jian Kwon"
+subtitle: "Friction limited Spring Loaded Inverted Pendulum Model"
+code: https://github.com/Ketan13294/Locomotion_dynamics_Project
+poster: https://github.com/Ketan13294/Ketan13294.github.io/blob/master/pdfs/SLIP.pdf
+---
+Work with [Gargi Sadalgekar](https://www.linkedin.com/in/gargi-sadalgekar/) and [Jian Kwon](https://www.linkedin.com/in/jian-kwon/) to analyze spring loaded inverted pendulum model when friction is restricted and slip is allowed at contact.
