@@ -9,6 +9,6 @@ author: "Kapi Ketan Mehta"
 authors: "John Cast, <strong>Kapi Ketan Mehta</strong>, Jacob Lopez"
 subtitle: "Collaborative Virtual Solid Modelling"
 code: https://github.com/Ketan13294/CreatAR
-poster: https://github.com/Ketan13294/Ketan13294.github.io/blob/master/pdfs/CreatR.pdf
+poster: https://github.com/Ketan13294/Ketan13294.github.io/blob/master/pdfs/CreatAR.pdf
 ---
 Work with [John Cast](https://www.johndallascast.com/), and [Jacob Lopez](https://www.linkedin.com/in/jacob--lopez/) to develop a virtually interactive and collaborative solid modelling application with HoloLens 2.
