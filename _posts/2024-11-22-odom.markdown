@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Visual Odometry and Localization"
+date:   2024-11-22 18:00:00 +00:00
+image: /images/visodom.png
+categories: VT
+course: "ME 5525: Bayesian Robotics"
+author: "Kapi Ketan Mehta"
+subtitle: "Visual odometry for mobile robots"
+---
+
+[Code Incoming] Implemented factor-graph based localization using bundle adjustments and fused with wheel odometry for reliable state estimation in GPS-denied environments.

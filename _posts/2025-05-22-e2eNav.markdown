@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "End-to-End Autonomous Navigation"
+date:   2025-05-22 18:00:00 +00:00
+image: /images/end2end.png
+categories: VT
+course: "ECE 6474: Deep Reinforcement Learning"
+author: "Kapi Ketan Mehta"
+authors: "<strong>Kapi Ketan Mehta</strong>, Kenneth Berry III"
+subtitle: "End-to-End Navigation with LLM assistance"
+code: https://github.com/Ketan13294/End-to-End_Autonomous_Navigation
+poster: https://github.com/Ketan13294/Ketan13294.github.io/blob/master/pdfs/end2end.pdf
+---
+
+Implemented end-to-end navigation pipeline for a UGV Jackal robot. Natural command processing and waypoint generation is small language model assisted and control is done with a deep control policy.
