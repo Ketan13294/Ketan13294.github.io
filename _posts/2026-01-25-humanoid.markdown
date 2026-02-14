@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Herarchial Control Architecture for Humanoid for Loco-Manipulation"
+date:   2026-02-28 22:21:59 +00:00
+image: /images/humanlocomanip.gif
+categories: research
+author: "Kapi Ketan Mehta"
+video: 
+---
+[Ongoing Research] Herarchial control architecture including Nonlinear MPC and quadratic whole body controller.

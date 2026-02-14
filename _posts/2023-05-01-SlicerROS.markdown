@@ -6,7 +6,7 @@ image: /images/SlicerROS2.png
 categories: research
 author: "Kapi Ketan Mehta"
 authors: "Laura Connolly, Aravind S. Kumar*, <strong>Kapi Ketan Mehta*</strong>, Lidia Al-Zogbi, Peter Kazanzides, Parvin Mousavi, Gabor Fichtinger, Axel Krieger, Junichi Tokuda, Russell H. Taylor, Simon Leonard, Anton Deguet"
-venue: "arXiv"
+venue: "IEEE Transactions on Medical Robotics and Bionics"
 arxiv: https://arxiv.org/abs/2509.19076
 youtube: https://youtu.be/k3VGs0YaE3g?si=uILm1Tj-Sa_IJWr3
 ---
