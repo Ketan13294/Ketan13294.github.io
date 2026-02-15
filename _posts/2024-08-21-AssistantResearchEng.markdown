@@ -4,6 +4,7 @@ title:  "Assistant Research Engineer"
 date_range:  2022-2024
 image: /images/jhurov2.gif
 categories: work
+org: Dynamical Systems and Control Laboratory, Johns Hopkins University
 venue: Baltimore, MD
 subtitle: "Underwater Vehicle development"
 ---

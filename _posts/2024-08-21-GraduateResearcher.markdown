@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Graduate Researcher"
-date_range:  2024-2027
+date_range:  2024-Present
 image: /images/PhD.jpg
 categories: work
+org: Virginia Tech
 venue: Blacksburg, VA
 subtitle: "Optimization and learning based control and planning"
 ---

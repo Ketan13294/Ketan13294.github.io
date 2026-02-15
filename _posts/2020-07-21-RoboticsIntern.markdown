@@ -4,6 +4,7 @@ title:  "Robotics Intern"
 date_range:  2019-2020
 image: /images/nusquad.gif
 categories: work
+org: National University of Singapore
 venue: Singapore, Singapore
 subtitle: "Develpoment of a quadruped"
 ---
