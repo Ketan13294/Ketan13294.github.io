@@ -2,7 +2,7 @@
 layout: post
 title:  "Graduate Researcher"
 date_range:  2024-2027
-image: /images/PhD.gif
+image: /images/PhD.jpg
 categories: work
 venue: Blacksburg, VA
 subtitle: "Optimization and learning based control and planning"

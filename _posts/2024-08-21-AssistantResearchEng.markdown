@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assistant Research Engineer"
-date_range:  2024-2022
+date_range:  2022-2024
 image: /images/jhurov2.gif
 categories: work
 venue: Baltimore, MD
