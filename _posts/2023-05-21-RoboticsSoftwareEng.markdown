@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robotics Software Engineer"
-date_range:  2023-2023
+date_range:  2023
 image: /images/workslicer.png
 categories: work
 org: Laboratory for Computational Sensing and Robotics, Johns Hopkins University

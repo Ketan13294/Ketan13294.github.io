@@ -2,7 +2,7 @@
 layout: post
 title:  "Manipulator Control and Planning"
 date:   2021-11-23 18:00:00 +00:00
-image: /images/ur5.jpg
+image: /images/ur5.gif
 categories: JHU
 course: "EN.530.646: Robot Devices, Kinemaitcs, Dynamics, and Control"
 author: "Kapi Ketan Mehta"
