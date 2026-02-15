@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Odometry and Localization"
 date:   2024-11-22 18:00:00 +00:00
-image: /images/visodom.png
+image: /images/404.jpg
 categories: VT
 course: "ME 5525: Bayesian Robotics"
 author: "Kapi Ketan Mehta"
