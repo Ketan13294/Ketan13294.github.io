@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graduate Researcher"
-date_range:  2027-2024
+date_range:  2024-2027
 image: /images/PhD.gif
 categories: work
 venue: Blacksburg, VA

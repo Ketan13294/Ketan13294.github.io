@@ -2,7 +2,7 @@
 layout: post
 title:  "CreatAR"
 date:   2022-11-22 18:00:00 +00:00
-image: /images/creatAR.jpg
+image: /images/creatAR.gif
 categories: JHU
 course: "EN.601.654: Augmented Reality"
 author: "Kapi Ketan Mehta"
