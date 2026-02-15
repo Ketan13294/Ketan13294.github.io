@@ -2,7 +2,7 @@
 layout: post
 title:  "Target Following Robot"
 date:   2022-05-20 18:00:00 +00:00
-image: /images/TargetFollow.jpg
+image: /images/TargetFollow.gif
 categories: JHU
 course: "EN.530.707: Robot System Programming"
 author: "Kapi Ketan Mehta"

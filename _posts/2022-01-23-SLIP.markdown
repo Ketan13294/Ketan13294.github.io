@@ -2,7 +2,7 @@
 layout: post
 title:  "Slipping SLIP"
 date:   2022-01-23 18:00:00 +00:00
-image: /images/SLIP.jpg
+image: /images/SLIP.gif
 categories: JHU
 course: "EN.530.676: Locomotion Dynamics & Control"
 author: "Kapi Ketan Mehta"
